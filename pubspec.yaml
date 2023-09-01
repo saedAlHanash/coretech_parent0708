@@ -1,7 +1,7 @@
 name: coretech_parent
 description: A new Flutter project.
 
-version: 2.0.9+29
+version: 2.0.2+22
 
 environment:
   sdk: '>=2.18.0-219.0.dev <3.0.0'
