@@ -31,8 +31,7 @@ class ThemeHelper {
         .of(context)
         .primaryColor;
     Color c2 = Theme
-        .of(context)
-        .accentColor;
+        .of(context).colorScheme.secondary;
     if (color1.isEmpty == false) {
       c1 = HexColor(color1);
     }
